@@ -1,6 +1,6 @@
-# ¡Hola! Soy Álvaro Saldaña 👋
+# ¡Hola! Soy Álvaro 👋
 
-### 🚀 Digital Innovation & Process Analyst en Elecnor USA
+### 🚀 
 
 Soy un apasionado de la tecnología, la innovación y la optimización de procesos. Me enfoco en crear soluciones eficientes que transforman la manera en que trabajamos, integrando nuevas tecnologías en el sector. 
 
